@@ -1,1 +1,6 @@
-
+{
+  "status": "active",
+  "min_version": "11.1",
+  "message": "",
+  "whitelist": []
+}
