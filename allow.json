@@ -1,6 +1,6 @@
 {
   "status": "active",
-  "min_version": "11.2",
+  "min_version": "11.3",
   "message": "",
   "whitelist": {
     "dhruv": "1d1fc3f22198d9cf123b0f71130b71ba24e16ca67b4fe4710fc4eaefeea6c4e0"
