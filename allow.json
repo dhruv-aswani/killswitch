@@ -1,7 +1,7 @@
 {
-  "status": "active",
+  "status": "ace",
   "min_version": "11.3",
-  "message": "MEOW GHOP GHOP GHOP",
+  "message": "LAADLE MEOW GHOP GHOP GHOP",
   "whitelist": {
     "dhruv": "1d1fc3f22198d9cf123b0f71130b71ba24e16ca67b4fe471fc4eaefeea6c4e0"
   }
